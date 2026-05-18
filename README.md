@@ -35,7 +35,7 @@ Finally, the program displays a detailed attendance report for each student and 
    * Leave days
 6. Calculate attendance percentage using:
 
-\text{Attendance Percentage} = \frac{\text{Total Present Days}}{30} \times 100
+{Attendance Percentage} = (Total Present Days)(100)/30
 
 7. Display the final attendance report.
 8. Show a warning if attendance is below 75%.
